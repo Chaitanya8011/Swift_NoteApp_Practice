@@ -1,6 +1,10 @@
 # 📒 SwiftUI Notes App
 
 A simple **Notes App** built with **SwiftUI and Core Data**, allowing users to **add, edit, and delete notes**. The app includes a **swipe-to-delete** feature and saves data persistently.
+–-------------------------
+📷📸 - 
+![Image](https://github.com/user-attachments/assets/432187fe-e853-4d1f-9182-fa9fd0db74f4)
+
 
 ---
 
@@ -10,9 +14,7 @@ A simple **Notes App** built with **SwiftUI and Core Data**, allowing users to *
 ✅ Swipe left to delete notes  
 ✅ Data persistence using Core Data  
 ✅ Minimal and clean SwiftUI interface  
---------------------------------------------
-screenshots - 
-![Image](https://github.com/user-attachments/assets/432187fe-e853-4d1f-9182-fa9fd0db74f4)
+-----------------------------------------
 
 ## 🛠️ Technologies Used
 - SwiftUI  
