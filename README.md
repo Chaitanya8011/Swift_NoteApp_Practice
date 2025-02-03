@@ -12,11 +12,7 @@ A simple **Notes App** built with **SwiftUI and Core Data**, allowing users to *
 ✅ Minimal and clean SwiftUI interface  
 --------------------------------------------
 screenshots - 
-![Image](https://github.com/user-attachments/assets/b4fe6443-aeb8-4d4e-b1e1-bce3d1d84cde)
-![Image](https://github.com/user-attachments/assets/95444704-6e69-4d78-be18-ca764c8e8b8b)
-![Image](https://github.com/user-attachments/assets/36abaeee-c372-4687-bad6-a3b2eed03076)
-![Image](https://github.com/user-attachments/assets/a04773a8-8372-4f71-962e-5dbf2abcab0b)
-![Image](https://github.com/user-attachments/assets/74ee7352-0c88-492b-b92c-c43aeed0d6e7)
+![Image](https://github.com/user-attachments/assets/432187fe-e853-4d1f-9182-fa9fd0db74f4)
 
 ## 🛠️ Technologies Used
 - SwiftUI  
